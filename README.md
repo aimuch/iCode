@@ -11,6 +11,8 @@
 - [审判程序的灵魂](./DataStructure/src/4.md)
 - [线性表](./DataStructure/DataStructrue.md#5.线性表) 
   - [线性表的本质](./DataStructure/src/5.md)
+  - [线性表的相关操作](./DataStructure/src/6.md)
+  - [线性表的顺序存储结构](./DataStructure/src/7.md)
 
 ## 3. [C++](./Cpp/cpp.md)    
   - 
