@@ -3,7 +3,9 @@
 
 ## 1. [C语言](./C/c.md)    
   - [数据类型](./C/src/1.md)
-  - 
+  - [void、extern、sizeof分析](./C/src/2.md)
+  - [const和volatile分析](./C/src/3.md)
+
 ## 2. [数据结构](./DataStructure/DataStructrue.md)    
 - [理解程序的本质](./DataStructure/src/1.md)    
 - [数据的艺术](./DataStructure/src/2.md)    
