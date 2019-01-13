@@ -15,6 +15,8 @@
   - [线性表的本质](./DataStructure/src/5.md)
   - [线性表的相关操作](./DataStructure/src/6.md)
   - [线性表的顺序存储结构](./DataStructure/src/7.md)
+  - [线性表的链式存储结构](./DataStructure/src/8.md)
+  - [静态链表](./DataStructure/src/9.md)
 
 ## 3. [C++](./Cpp/cpp.md)    
   - 
