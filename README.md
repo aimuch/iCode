@@ -6,6 +6,7 @@
   - [void、extern、sizeof分析](./C/src/2.md)
   - [const和volatile分析](./C/src/3.md)
   - [struct和union分析](./C/src/4.md)
+  - [enum和typedef分析](./C/src/5.md)
 
 ## 2. [数据结构](./DataStructure/DataStructrue.md)    
 - [理解程序的本质](./DataStructure/src/1.md)    
