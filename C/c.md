@@ -6,3 +6,4 @@
 3. [const和volatile分析](./src/3.md)
 4. [struct和union分析](./src/4.md)
 5. [enum和typedef分析](./src/5.md)
+6. [符号的技巧](./src/6.md)

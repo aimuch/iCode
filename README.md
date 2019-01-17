@@ -7,6 +7,7 @@
   - [const和volatile分析](./C/src/3.md)
   - [struct和union分析](./C/src/4.md)
   - [enum和typedef分析](./C/src/5.md)
+  - [符号的技巧](./C/src/6.md)
 
 ## 2. [数据结构](./DataStructure/DataStructrue.md)    
 - [理解程序的本质](./DataStructure/src/1.md)    
