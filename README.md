@@ -22,6 +22,7 @@
   - [线性表的链式存储结构](./DataStructure/src/8.md)
   - [静态链表](./DataStructure/src/9.md)
   - [循环链表](./DataStructure/src/10.md)
+  - [双向链表](./DataStructure/src/11.md)
 
 ## 3. [C++](./Cpp/cpp.md)    
 - []()
