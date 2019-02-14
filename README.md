@@ -28,6 +28,9 @@
 - []()
 
 ## 4. [Go语言](./Go/Go.md)
+- [环境设置](./Go/src/0.md)
+   - [如何设置go环境变量GOPATH](./Go/src/0.md#如何设置go环境变量gopath)
+   - [go获取tools包](./Go/src/0.md#go获取tools包) 
 - [定义变量](./Go/src/1.md)   
 - [内建变量类型](./Go/src/2.md)
 - [常量与枚举](./Go/src/3.md)   
