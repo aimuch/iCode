@@ -8,3 +8,9 @@
 5. [enum和typedef分析](./src/5.md)
 6. [符号的技巧](./src/6.md)
 7. [位运算符分析](./src/7.md)
+
+
+## ASCII
+![ASCII](img/ASCII.png)     
+
+![ASCII-extend](img/ASCII_extend.png)   
