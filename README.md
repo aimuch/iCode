@@ -56,3 +56,8 @@
 - [Adding System Introspection (Step 4)](./CMake/cmake.md#adding-system-introspection-(step-4))
 - [Adding a Generated File and Generator (Step 5)](./CMake/cmake.md#adding-a-generated-file-and-generator-(step-5))
 - [Building an Installer (Step 6)](./CMake/cmake.md#building-an-installer-(step-6))
+
+
+
+## 参考
+> 1. [CMake 简介和 CMake 模板](https://github.com/district10/cmake-templates)
