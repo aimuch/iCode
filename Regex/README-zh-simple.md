@@ -1,32 +1,10 @@
 <p align="center">
     <br/>
-    <a href="https://github.com/ziishaned/learn-regex">
-        <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
+    <a>
+        <img src="./img/learn-regex.png" alt="Learn Regex">
     </a>
-    <br /><br />
-    <p>
-        <a href="https://twitter.com/home?status=Learn%20regex%20the%20easy%20way%20by%20%40ziishaned%20http%3A//github.com/ziishaned/learn-regex">
-            <img src="https://img.shields.io/badge/twitter-tweet-blue.svg?style=flat-square"/>
-        </a>
-        <a href="https://twitter.com/ziishaned">
-            <img src="https://img.shields.io/badge/feedback-@ziishaned-blue.svg?style=flat-square" />
-        </a>
-    </p>
 </p>
 
-## Translations:
-
-* [English](../README.md)
-* [Español](../translations/README-es.md)
-* [Français](../translations/README-fr.md)
-* [Português do Brasil](../translations/README-pt_BR.md)
-* [中文版](../translations/README-cn.md)
-* [日本語](../translations/README-ja.md)
-* [한국어](../translations/README-ko.md)
-* [Turkish](../translations/README-tr.md)
-* [Greek](../translations/README-gr.md)
-* [Magyar](../translations/README-hu.md)
-* [Polish](../translations/README-pl.md)
 
 ## 什么是正则表达式?
  
@@ -42,7 +20,7 @@
 
 <br/><br/>
 <p align="center">
-  <img src="../img/regexp-cn.png" alt="Regular expression">
+  <img src="./img/regexp-cn.png" alt="Regular expression">
 </p>
 
 以上的正则表达式可以接受 `john_doe`, `jo-hn_doe`, `john12_as`.

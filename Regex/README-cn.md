@@ -1,4 +1,9 @@
-# Learn Regex
+<p align="center">
+    <br/>
+    <a>
+        <img src="./img/learn-regex.png" alt="Learn Regex">
+    </a>
+</p>
 
 
 ## 什么是正则表达式?
@@ -15,7 +20,7 @@
 
 <br/><br/>
 <p align="center">
-  <img src="../img/regexp-cn.png" alt="Regular expression">
+  <img src="./img/regexp-cn.png" alt="Regular expression">
 </p>
 
 以上的正则表达式可以接受 `john_doe`, `jo-hn_doe`, `john12_as`.
