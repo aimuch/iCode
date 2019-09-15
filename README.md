@@ -1,7 +1,7 @@
 # ProgrammerNotes
 *Programmer Notes*   
 
-## 1. [C语言](./C/c.md)    
+## 1. [C语言](./C/README.md)    
   - [数据类型](./C/src/1.md)
   - [void、extern、sizeof分析](./C/src/2.md)
   - [const和volatile分析](./C/src/3.md)
@@ -10,7 +10,7 @@
   - [符号的技巧](./C/src/6.md)
   - [位运算符分析](./C/src/7.md)
 
-## 2. [数据结构](./DataStructure/DataStructrue.md)    
+## 2. [数据结构](./DataStructure/README.md)    
 - [理解程序的本质](./DataStructure/src/1.md)    
 - [数据的艺术](./DataStructure/src/2.md)    
 - [程序的灵魂-算法](./DataStructure/src/3.md)   
@@ -24,10 +24,10 @@
   - [循环链表](./DataStructure/src/10.md)
   - [双向链表](./DataStructure/src/11.md)
 
-## 3. [C++](./Cpp/cpp.md)    
+## 3. [C++](./Cpp/README.md)    
 - []()
 
-## 4. [Go语言](./Go/Go.md)
+## 4. [Go语言](./Go/README.md)
 - [环境设置](./Go/src/0.md)
    - [如何设置go环境变量GOPATH](./Go/src/0.md#如何设置go环境变量gopath)
    - [go获取tools包](./Go/src/0.md#go获取tools包) 
@@ -47,9 +47,9 @@
 - [包和封装](./Go/src/14.md)
 
 
-## 5. [JS](./JS/JS.md)
+## 5. [JS](./JS/README.md)
 
-## 6. [CMake Tutorial](./CMake/cmake.md)
+## 6. [CMake Tutorial](./CMake/README.md)
 - [A Basic Starting Point (Step1)](./CMake/cmake.md#a-basic-starting-point-(step-1))
 - [Adding a Library (Step 2)](./CMake/cmake.md#adding-a-library-(step-2))
 - [Installing and Testing (Step 3)](./CMake/cmake.md#installing-and-testing-(step-3))
@@ -57,7 +57,7 @@
 - [Adding a Generated File and Generator (Step 5)](./CMake/cmake.md#adding-a-generated-file-and-generator-(step-5))
 - [Building an Installer (Step 6)](./CMake/cmake.md#building-an-installer-(step-6))
 
-## 7. [Regex](Regex/README-cn.md)
+## 7. [Regex](Regex/README.md)
 
 
 ## 参考
