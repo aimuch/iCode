@@ -23,6 +23,7 @@
   - [静态链表](./DataStructure/src/9.md)
   - [循环链表](./DataStructure/src/10.md)
   - [双向链表](./DataStructure/src/11.md)
+- [排序](./DataStructure/src/sort.md)
 
 ## 3. [C++](./Cpp/README.md)    
 - []()
