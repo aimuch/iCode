@@ -1,4 +1,4 @@
-#include <ctime>
+#include <chrono>
 
 double get_time_point() {
     std::chrono::steady_clock::time_point current_time = std::chrono::steady_clock::now();
