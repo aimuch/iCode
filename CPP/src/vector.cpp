@@ -1,5 +1,6 @@
-include <vector>
-
+#include <iostream>
+#include <vector>
+#include <algorithm>
 
 /* ---------------------------- 判断Vector中是否存在某个元素 --------------------------- */
 bool is_element_in_vector(std::vector<int> v,int element){
